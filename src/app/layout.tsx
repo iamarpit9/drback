@@ -19,11 +19,12 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: {
     template: "%s",
-    default: "Quality Towels for B2B Manufacturing and Exports",
+    default: "India’s Top-Rated Ortho Mattress Brand",
   },
-  description: "We are the bath linen/Towel experts",
+  description:
+    "Dr. Back is one of India’s fastest-growing and best-reviewed orthopedic mattress brands.",
   icons: {
-    icon: "/icon.ico",
+    icon: "/logo.png",
   },
 };
 
